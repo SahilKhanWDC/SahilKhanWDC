@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1722692448~exp=1722696048~hmac=97c467ee6709c95959ff53fe982f39c073c94d11904398475c42e390db689a46&w=900)]
+![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1722692448~exp=1722696048~hmac=97c467ee6709c95959ff53fe982f39c073c94d11904398475c42e390db689a46&w=900)
 <h1 align="center">Hi 👋, I'm Sahil khan</h1>
 <h3 align="center">Your Partner in Full Stack Innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?t=st=1722692162~exp=1722695762~hmac=248d4162e3315742e8ebd68dc9fe6bec8deabc09a9b4f1624b072f00eaf11a35&w=740">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?t=st=1722692162~exp=1722695762~hmac=248d4162e3315742e8ebd68dc9fe6bec8deabc09a9b4f1624b072f00eaf11a35&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkhanwdc&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkhanwdc" /> </p>
 
