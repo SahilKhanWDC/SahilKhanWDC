@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilkhan0210" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkhan0210?logo=twitter&style=for-the-badge" alt="sahilkhan0210" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Full-stack development and programming**
 
 - 💬 Ask me about **anything From Frontend Flair to Backend Brilliance.**
 
