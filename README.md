@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sk.sahilkhan543@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vnyFTFS3pJCjE6sB2E9C2hzRa9YB6376/view?usp=sharing]((https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=sharing](https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vnyFTFS3pJCjE6sB2E9C2hzRa9YB6376/view?usp=sharing]((https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=sharing]
 
 - ⚡ Fun fact **Did You Know? The First Computer Bug Was an Actual Bug!**
 
