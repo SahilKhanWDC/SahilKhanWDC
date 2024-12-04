@@ -1,4 +1,3 @@
-![MasterHead]()
 <h1 align="center">Greetings 👋, I'm Sahil khan</h1>
 <h3 align="center">Your Partner in Full Stack Innovation.</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?t=st=1722692162~exp=1722695762~hmac=248d4162e3315742e8ebd68dc9fe6bec8deabc09a9b4f1624b072f00eaf11a35&w=740">
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **sk.sahilkhan543@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vnyFTFS3pJCjE6sB2E9C2hzRa9YB6376/view?usp=sharing]([https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=sharing](https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=drive_link)))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vnyFTFS3pJCjE6sB2E9C2hzRa9YB6376/view?usp=sharing]((https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=sharing](https://drive.google.com/file/d/1rMCh7kKiHdIDd9sp-840KXWHIFnukZQ4/view?usp=drive_link))
 
 - ⚡ Fun fact **Did You Know? The First Computer Bug Was an Actual Bug!**
 
