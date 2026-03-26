@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full stack Development<br>I'm looking to collaborate on Open source projects<br>I'm currently learning Machine Learning <br>Ask me about softwares - their system design & architecture<br>
+I'm working on Full stack Development<br>I'm looking to collaborate on Open source projects<br>I'm currently learning Machine Learning <br>Ask me about websites - their internl design & architecture<br>
 
 
 ## 🌐 Socials:
